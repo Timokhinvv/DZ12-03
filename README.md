@@ -24,7 +24,7 @@
 
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 ![1_Снимок экрана от 2025-04-01 23-16-50](https://github.com/user-attachments/assets/01bf8cf1-5e4a-4aa8-bdb4-2578fb6f87f8)
-![1a_Снимок экрана от 2025-04-03 18-40-16](https://github.com/user-attachments/assets/1d901175-bb4a-43e1-acc3-76d1c700afac)
+![1b_Снимок экрана от 2025-04-03 23-50-58](https://github.com/user-attachments/assets/60972ea2-34ad-488f-a8ce-8593709e955b)
 
 
 
